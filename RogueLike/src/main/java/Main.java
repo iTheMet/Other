@@ -9,6 +9,8 @@ public class Main {
         d.setxPole(Integer.parseInt(scanner.nextLine()));
         d.setyPole(Integer.parseInt(scanner.nextLine()));
         d.walkingDude(d.getxPole(),d.getyPole());
+
+
     }
 
 }
